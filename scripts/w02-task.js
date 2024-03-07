@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 const fullName = 'Irina Groza';
 const currentYear = new Date().getFullYear();
-const profilePicture = 'images/groza.jpg';
+const profilePicture = 'images/groza.png';
 
 /* Step 3 - Element Variables */
 const nameElement = document.getElementById('name');
