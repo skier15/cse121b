@@ -1,8 +1,9 @@
 /* W05: Programming Tasks */
 
 /* Declare and initialize global variables */
-const templesElement = document.querySelector("#temples");
 let templeList = [];
+const templesElement = document.querySelector("#temples");
+
 
 /* async displayTemples Function */
 const displayTemples = async (temples) => {
